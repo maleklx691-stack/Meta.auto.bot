@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MetaID Studio</string>
+    <string name="hero_subtitle">১ ক্লিকে স্টার্ট চাপলেই অটো টেম্প-মেইল, অটো ডেট অফ বার্থ ও অটো Meta AI একাউন্ট ক্রিয়েটর</string>
+    <string name="tab_generator">জেনারেটর</string>
+    <string name="tab_vault">গুগল শিট ও ভল্ট</string>
+    <string name="tab_tools">পাসওয়ার্ড ল্যাব</string>
+    <string name="temp_email_label">অটো টেম্প-মেইল (Auto Temp Mail)</string>
+    <string name="temp_email_placeholder">স্টার্ট চাপলে অটোমেটিক মেইল বসবে</string>
+    <string name="paste_btn">পেস্ট</string>
+    <string name="clear_btn">মুছুন</string>
+    <string name="generate_btn">নতুন ইউনিক তথ্য জেনারেট করুন</string>
+    <string name="save_profile_btn">ভল্টে সেভ করুন</string>
+    <string name="copy_all_btn">সব কপি করুন</string>
+    <string name="copied_toast">ক্লিপবোর্ডে কপি করা হয়েছে!</string>
+    <string name="saved_toast">Meta AI একাউন্ট গুগল শিট ও ভল্টে সেভ হয়েছে!</string>
+</resources>

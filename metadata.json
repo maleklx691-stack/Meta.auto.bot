@@ -1,0 +1,6 @@
+{
+  "name": "MetaID Studio",
+  "description": "Unique Bengali and English identity, realistic 18-35 DOB, strong password generator, and temp email vault for Meta and social accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
